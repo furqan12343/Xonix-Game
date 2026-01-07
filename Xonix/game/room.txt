@@ -1,0 +1,7 @@
+Room ID: 9048 | Player1 ID: -1 | Player2 ID: -1
+Room ID: 4707 | Player1 ID: -1 | Player2 ID: -1
+Room ID: 2474 | Player1 ID: 1001 | Player2 ID: 1002
+Room ID: 8344 | Player1 ID: 1002 | Player2 ID: 1004
+Room ID: 4270 | Player1 ID: 1004 | Player2 ID: 1003
+Room ID: 6554 | Player1 ID: -1 | Player2 ID: -1
+Room ID: 4355 | Player1 ID: 1001 | Player2 ID: 1002

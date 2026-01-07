@@ -1,0 +1,6 @@
+1,Classic Arcade Blue,  deep retro blue,10,10,80
+2,Electric Purple,  vivid, electric tone,50,0,90
+3,Dark Grid Cyan, subtle, techy cyan ,0, 30,30
+4,Dark Gray Steel, neutral gray ,40,40,40
+5,Pixel Forest Green, rich natural green,0,60,0
+
